@@ -1,0 +1,41 @@
+ul{
+  margin-left:1100px;
+}
+li{
+    float:left;
+    list-style: none;
+    margin: 25px;
+    font-family: fantasy;
+    font-size: 18px;
+}
+div{
+  background-color: white;
+  margin-top: 50px;
+  text-align: center;
+  height: 120px;
+}
+nav{
+  margin-top: -60px;
+}
+h4{
+  text-align: center;
+  margin-top: 410px;
+  background-color: ;
+  font-family: fantasy;
+}
+nav{
+  position: fixed;
+}
+img{
+  width: 10em;
+  height: 150px;
+}
+#kk{
+  height: 200px;
+}
+#m{
+  background-image: url("33.jpg");
+}
+body{
+  
+}
